@@ -1,0 +1,21 @@
+purchase_id,product_id,unit,subtotal,notes
+1,1,50.00000,3750000.00000,Wireless mouse bulk procurement
+1,2,7.00000,1750000.00000,Gaming keyboard procurement
+2,16,30.00000,2160000.00000,Ceramic tile purchase
+2,17,5.00000,1040000.00000,Steel pipe purchase
+3,7,100.00000,1800000.00000,Cooking oil stock purchase
+3,18,50.00000,825000.00000,Sugar inventory procurement
+4,1,10.00000,750000.00000,Computer accessories procurement
+4,10,150.00000,975000.00000,Whiteboard marker purchase
+5,13,100.00000,2800000.00000,Shampoo stock procurement
+5,8,20.00000,900000.00000,Mineral water stock purchase
+6,5,40.00000,2200000.00000,Cotton t shirt procurement
+6,6,5.00000,1600000.00000,Sports shoes inventory
+7,3,6.00000,5100000.00000,Office chair procurement
+7,20,1.00000,1250000.00000,Acoustic guitar showroom item
+8,9,25.00000,1450000.00000,Copy paper procurement
+8,10,100.00000,650000.00000,Marker inventory purchase
+9,11,30.00000,3600000.00000,Premium dog food procurement
+9,12,10.00000,2750000.00000,Protein supplement stock
+10,15,4.00000,2680000.00000,Electric drill purchase
+10,17,10.00000,1500000.00000,Steel pipe inventory

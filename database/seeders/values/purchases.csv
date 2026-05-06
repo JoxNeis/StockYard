@@ -1,0 +1,11 @@
+supplier_id,created_by,payment_type,payment_date,subtotal,discount,discount_rate,tax,attachments_format,notes
+1,1,transfer,2026-05-01,5500000.00000,200000.00000,0.04,530000.00000,pdf,Electronic equipment procurement
+2,2,transfer,2026-05-02,3200000.00000,100000.00000,0.03,310000.00000,pdf,Construction materials purchase
+3,5,cash,2026-05-02,2750000.00000,0.00000,0.00,275000.00000,docx,Grocery inventory purchase
+4,3,transfer,2026-05-03,1850000.00000,50000.00000,0.03,180000.00000,pdf,IT accessories procurement
+5,4,transfer,2026-05-03,4100000.00000,150000.00000,0.04,395000.00000,pdf,Plastic packaging materials
+6,6,transfer,2026-05-04,2950000.00000,75000.00000,0.03,287500.00000,xlsx,Textile and apparel purchase
+7,7,cash,2026-05-04,6700000.00000,250000.00000,0.04,645000.00000,pdf,Furniture inventory procurement
+8,8,transfer,2026-05-05,2100000.00000,0.00000,0.00,210000.00000,pdf,Office stationery supplies
+9,9,transfer,2026-05-05,7350000.00000,300000.00000,0.04,705000.00000,docx,Agricultural product procurement
+10,10,transfer,2026-05-06,4900000.00000,200000.00000,0.04,470000.00000,pdf,Industrial spare part purchase

@@ -1,0 +1,11 @@
+customer_id,created_by,payment_type,payment_date,subtotal,discount,discount_rate,tax,attachments_format,notes
+1,1,cash,2026-05-01,3750000.00000,150000.00000,0.04,360000.00000,pdf,Office electronics purchase
+2,2,transfer,2026-05-02,2100000.00000,50000.00000,0.02,205000.00000,pdf,Stationery and office supplies
+3,5,transfer,2026-05-02,8450000.00000,300000.00000,0.03,815000.00000,docx,Factory equipment procurement
+4,3,cash,2026-05-03,1250000.00000,0.00000,0.00,125000.00000,pdf,Retail clothing order
+5,4,transfer,2026-05-03,2650000.00000,100000.00000,0.04,255000.00000,pdf,Computer accessories purchase
+6,6,transfer,2026-05-04,1950000.00000,75000.00000,0.03,187500.00000,xlsx,Warehouse inventory replenishment
+7,7,transfer,2026-05-04,7200000.00000,250000.00000,0.03,695000.00000,pdf,Furniture bulk purchase
+8,8,cash,2026-05-05,980000.00000,0.00000,0.00,98000.00000,pdf,Small retail electronics order
+9,9,transfer,2026-05-05,4100000.00000,200000.00000,0.05,390000.00000,docx,Industrial spare parts order
+10,10,transfer,2026-05-06,1575000.00000,50000.00000,0.03,152500.00000,pdf,Food and beverages purchase

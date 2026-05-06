@@ -1,0 +1,99 @@
+id,name,province_id
+1,Kota Banda Aceh,1
+2,Kota Sabang,1
+3,Kota Langsa,1
+4,Kota Lhokseumawe,1
+5,Kota Subulussalam,1
+6,Kota Medan,2
+7,Kota Pematangsiantar,2
+8,Kota Sibolga,2
+9,Kota Tanjungbalai,2
+10,Kota Binjai,2
+11,Kota Tebing Tinggi,2
+12,Kota Padangsidimpuan,2
+13,Kota Gunungsitoli,2
+14,Kota Padang,3
+15,Kota Solok,3
+16,Kota Sawahlunto,3
+17,Kota Padang Panjang,3
+18,Kota Bukittinggi,3
+19,Kota Payakumbuh,3
+20,Kota Pariaman,3
+21,Kota Pekanbaru,4
+22,Kota Dumai,4
+23,Kota Batam,5
+24,Kota Tanjungpinang,5
+25,Kota Jambi,6
+26,Kota Sungai Penuh,6
+27,Kota Palembang,7
+28,Kota Prabumulih,7
+29,Kota Pagar Alam,7
+30,Kota Lubuklinggau,7
+31,Kota Pangkalpinang,8
+32,Kota Bengkulu,9
+33,Kota Bandar Lampung,10
+34,Kota Metro,10
+35,Kota Administrasi Jakarta Pusat,11
+36,Kota Administrasi Jakarta Utara,11
+37,Kota Administrasi Jakarta Barat,11
+38,Kota Administrasi Jakarta Selatan,11
+39,Kota Administrasi Jakarta Timur,11
+40,Kota Bandung,12
+41,Kota Bekasi,12
+42,Kota Bogor,12
+43,Kota Cimahi,12
+44,Kota Cirebon,12
+45,Kota Depok,12
+46,Kota Sukabumi,12
+47,Kota Tasikmalaya,12
+48,Kota Banjar,12
+49,Kota Semarang,13
+50,Kota Surakarta,13
+51,Kota Salatiga,13
+52,Kota Pekalongan,13
+53,Kota Tegal,13
+54,Kota Magelang,13
+55,Kota Yogyakarta,14
+56,Kota Surabaya,15
+57,Kota Malang,15
+58,Kota Batu,15
+59,Kota Madiun,15
+60,Kota Kediri,15
+61,Kota Blitar,15
+62,Kota Mojokerto,15
+63,Kota Pasuruan,15
+64,Kota Probolinggo,15
+65,Kota Serang,16
+66,Kota Cilegon,16
+67,Kota Tangerang,16
+68,Kota Tangerang Selatan,16
+69,Kota Denpasar,17
+70,Kota Mataram,18
+71,Kota Bima,18
+72,Kota Kupang,19
+73,Kota Pontianak,20
+74,Kota Singkawang,20
+75,Kota Palangka Raya,21
+76,Kota Banjarmasin,22
+77,Kota Banjarbaru,22
+78,Kota Samarinda,23
+79,Kota Balikpapan,23
+80,Kota Bontang,23
+81,Kota Tarakan,24
+82,Kota Manado,25
+83,Kota Bitung,25
+84,Kota Tomohon,25
+85,Kota Kotamobagu,25
+86,Kota Gorontalo,26
+87,Kota Palu,27
+88,Kota Makassar,29
+89,Kota Parepare,29
+90,Kota Palopo,29
+91,Kota Kendari,30
+92,Kota Bau-Bau,30
+93,Kota Ambon,31
+94,Kota Tual,31
+95,Kota Ternate,32
+96,Kota Tidore Kepulauan,32
+97,Kota Jayapura,33
+98,Kota Sorong,34

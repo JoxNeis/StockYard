@@ -1,0 +1,24 @@
+order_shipment_id,product_id,unit,notes
+1,1,20.00000,Wireless mouse delivered to customer
+1,2,5.00000,Gaming keyboard shipment completed
+1,4,1.00000,LED monitor delivered
+2,9,15.00000,Office paper shipment received
+2,10,100.00000,Marker shipment delivered
+2,5,10.00000,Clothing products shipped
+3,15,4.00000,Electric drill shipment completed
+3,16,40.00000,Ceramic tile delivery successful
+3,17,10.00000,Steel pipe shipment confirmed
+4,5,20.00000,Cotton shirt delivery completed
+4,6,3.00000,Running shoes delivered
+5,1,10.00000,Computer accessories shipment completed
+5,4,1.00000,LED monitor delivery verified
+6,7,50.00000,Cooking oil shipment accepted
+6,18,30.00000,Sugar shipment delivered
+7,3,5.00000,Office chair shipment completed
+7,20,2.00000,Acoustic guitar delivery successful
+8,2,2.00000,Keyboard shipment delivered
+8,10,50.00000,Marker stock shipment completed
+9,15,3.00000,Industrial drill delivery confirmed
+10,7,25.00000,Cooking oil shipment completed
+10,8,15.00000,Mineral water boxes delivered
+10,13,10.00000,Shampoo shipment completed

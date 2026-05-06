@@ -1,0 +1,21 @@
+purchase_shipment_id,product_id,unit,notes
+1,1,50.00000,Wireless mouse shipment received
+1,2,7.00000,Gaming keyboard shipment received
+2,16,30.00000,Ceramic tile delivery completed
+2,17,5.00000,Steel pipe shipment verified
+3,7,100.00000,Cooking oil shipment accepted
+3,18,50.00000,Sugar inventory received
+4,1,10.00000,Computer accessories shipment completed
+4,10,150.00000,Marker shipment received
+5,13,100.00000,Shampoo stock delivered
+5,8,20.00000,Mineral water shipment completed
+6,5,40.00000,Textile products received
+6,6,5.00000,Sports shoes shipment accepted
+7,3,6.00000,Office chairs delivered
+7,20,1.00000,Acoustic guitar shipment completed
+8,9,25.00000,Copy paper shipment verified
+8,10,100.00000,Marker inventory received
+9,11,30.00000,Dog food shipment completed
+9,12,10.00000,Protein supplement stock received
+10,15,4.00000,Electric drill shipment completed
+10,17,10.00000,Steel pipe inventory received

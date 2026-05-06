@@ -1,0 +1,121 @@
+id,name,city_id
+1,Baiturrahman,1
+2,Kuta Alam,1
+3,Syiah Kuala,1
+4,Medan Baru,6
+5,Medan Kota,6
+6,Medan Tuntungan,6
+7,Koto Tangah,14
+8,Padang Barat,14
+9,Lubuk Begalung,14
+10,Sukajadi,40
+11,Coblong,40
+12,Andir,40
+13,Bekasi Selatan,41
+14,Bekasi Barat,41
+15,Pondok Gede,41
+16,Bogor Selatan,42
+17,Tanah Sareal,42
+18,Bogor Utara,42
+19,Cimahi Utara,43
+20,Cimahi Tengah,43
+21,Cimahi Selatan,43
+22,Harjamukti,44
+23,Kesambi,44
+24,Kejaksan,44
+25,Pancoran Mas,45
+26,Sukmajaya,45
+27,Cilodong,45
+28,Cikole,46
+29,Warudoyong,46
+30,Baros,46
+31,Cihideung,47
+32,Tawang,47
+33,Mangkubumi,47
+34,Banjar,48
+35,Purwaharja,48
+36,Pataruman,48
+37,Semarang Tengah,49
+38,Tembalang,49
+39,Banyumanik,49
+40,Laweyan,50
+41,Banjarsari,50
+42,Jebres,50
+43,Sidorejo,51
+44,Tingkir,51
+45,Argomulyo,51
+46,Pekalongan Barat,52
+47,Pekalongan Timur,52
+48,Pekalongan Selatan,52
+49,Tegal Barat,53
+50,Tegal Timur,53
+51,Margadana,53
+52,Magelang Selatan,54
+53,Magelang Tengah,54
+54,Magelang Utara,54
+55,Gondokusuman,55
+56,Umbulharjo,55
+57,Mantrijeron,55
+58,Tegalsari,56
+59,Gubeng,56
+60,Rungkut,56
+61,Klojen,57
+62,Blimbing,57
+63,Sukun,57
+64,Batu,58
+65,Junrejo,58
+66,Bumiaji,58
+67,Kartoharjo,59
+68,Manguharjo,59
+69,Taman,59
+70,Mojoroto,60
+71,Kota,60
+72,Pesantren,60
+73,Kepanjenkidul,61
+74,Sananwetan,61
+75,Sukorejo,61
+76,Magersari,62
+77,Prajurit Kulon,62
+78,Kranggan,62
+79,Gadingrejo,63
+80,Panggungrejo,63
+81,Purworejo,63
+82,Mayangan,64
+83,Kademangan,64
+84,Kanigaran,64
+85,Serang,65
+86,Kasemen,65
+87,Taktakan,65
+88,Cibeber,66
+89,Cilegon,66
+90,Pulomerak,66
+91,Tangerang,67
+92,Cibodas,67
+93,Karawaci,67
+94,Ciputat,68
+95,Pamulang,68
+96,Serpong,68
+97,Denpasar Barat,69
+98,Denpasar Selatan,69
+99,Denpasar Timur,69
+100,Ampenan,70
+101,Cakranegara,70
+102,Sekarbela,70
+103,Rasanae Barat,71
+104,Asakota,71
+105,Raba,71
+106,Alak,72
+107,Kelapa Lima,72
+108,Oebobo,72
+109,Pontianak Selatan,73
+110,Pontianak Kota,73
+111,Pontianak Barat,73
+112,Singkawang Barat,74
+113,Singkawang Tengah,74
+114,Singkawang Timur,74
+115,Jekan Raya,75
+116,Pahandut,75
+117,Sebangau,75
+118,Banjarmasin Tengah,76
+119,Banjarmasin Barat,76
+120,Banjarmasin Timur,76

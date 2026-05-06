@@ -1,0 +1,21 @@
+name,address,address_subdistrict_id,address_zipcode,job_title,notes
+Jakarta Head Office,Jl Sudirman Kav 25 Jakarta,1,10110,office,Main corporate headquarters
+Bandung Warehouse,Jl Soekarno Hatta No 88 Bandung,2,40235,warehouse,Primary warehouse for West Java region
+Surabaya Factory,Jl Rungkut Industri No 10 Surabaya,3,60293,factory,Manufacturing facility for consumer goods
+Bekasi Distribution Center,Jl Industri Raya Blok C Bekasi,4,17530,dc,Distribution center for Jabodetabek deliveries
+Yogyakarta Showroom,Jl Malioboro No 12 Yogyakarta,5,55213,showroom,Product showcase and customer meeting point
+Semarang Retail Store,Jl Pandanaran No 7 Semarang,6,50134,retail,Retail branch serving walk in customers
+Denpasar Remote Site,Jl By Pass Ngurah Rai No 5 Denpasar,7,80114,remote_site,Field operation support office
+Medan Warehouse,Jl Gatot Subroto No 77 Medan,8,20122,warehouse,North Sumatera inventory warehouse
+Banjarmasin Distribution Center,Jl Ahmad Yani Km 6 Banjarmasin,9,70122,dc,South Kalimantan logistics hub
+Samarinda Factory,Jl DI Panjaitan No 19 Samarinda,10,75124,factory,Heavy equipment assembly facility
+Makassar Office,Jl AP Pettarani No 9 Makassar,11,90231,office,Regional administration office
+Malang Showroom,Jl Ijen Boulevard No 2 Malang,12,65115,showroom,Furniture and electronics showroom
+Batam Warehouse,Jl Engku Putri Industrial Area Batam,13,29444,warehouse,Import goods storage warehouse
+Bandar Lampung Retail Store,Jl Kartini No 17 Bandar Lampung,14,35118,retail,Retail sales and pickup point
+Padang Distribution Center,Jl Khatib Sulaiman No 30 Padang,15,25129,dc,Regional product distribution center
+Banda Aceh Office,Jl T Nyak Arief No 8 Banda Aceh,16,23121,office,Provincial administration branch
+Manado Remote Site,Jl Sam Ratulangi No 45 Manado,17,95115,remote_site,Remote operational support area
+Palu Warehouse,Jl Moh Yamin No 11 Palu,18,94111,warehouse,Disaster recovery stock warehouse
+Kupang Retail Store,Jl El Tari No 6 Kupang,19,85117,retail,Retail and service branch
+Jayapura Distribution Center,Jl Abepura Raya No 50 Jayapura,20,99119,dc,Eastern Indonesia logistics center

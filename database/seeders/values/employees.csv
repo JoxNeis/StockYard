@@ -1,0 +1,21 @@
+user_id,first_name,middle_name,last_name,email,phone_number,fax_number,division_id,head_id,job_title,address,address_subdistrict_id,location_id,salary,notes
+1,Alexander,Ray,Carter,alex.carter@company.id,081900000001,0218801001,1,,director,Jl Sudirman No 10 Jakarta,1,1,25000000.00000,Head of Human Resources
+2,Michelle,Ann,Turner,michelle.turner@company.id,081900000002,0218801002,2,1,supervisor,Jl Gatot Subroto No 15 Jakarta,2,1,18000000.00000,Finance division supervisor
+3,Daniel,,Brooks,daniel.brooks@company.id,081900000003,0218801003,3,1,staff,Jl Asia Afrika No 8 Bandung,3,2,9500000.00000,Marketing executive
+4,Sophia,Grace,Mitchell,sophia.mitchell@company.id,081900000004,0218801004,4,2,staff,Jl Ahmad Yani No 5 Bekasi,4,2,8500000.00000,Sales representative
+5,Ethan,James,Walker,ethan.walker@company.id,081900000005,0218801005,5,2,manager,Jl Pemuda No 20 Semarang,5,3,22000000.00000,Operations manager
+6,Olivia,,Harris,olivia.harris@company.id,081900000006,0218801006,6,5,staff,Jl Malioboro No 18 Yogyakarta,6,4,7800000.00000,Warehouse staff
+7,William,Scott,Evans,william.evans@company.id,081900000007,0218801007,7,5,supervisor,Jl Teuku Umar No 9 Denpasar,7,5,16000000.00000,Production supervisor
+8,Emma,,Collins,emma.collins@company.id,081900000008,0218801008,8,5,staff,Jl Gatot Subroto No 44 Medan,8,6,8700000.00000,IT support specialist
+9,James,Lee,Robinson,james.robinson@company.id,081900000009,0218801009,9,1,manager,Jl Veteran No 17 Banjarmasin,9,7,21000000.00000,Procurement manager
+10,Charlotte,,Lewis,charlotte.lewis@company.id,081900000010,0218801010,10,9,staff,Jl Pahlawan No 23 Samarinda,10,8,7600000.00000,Logistics coordinator
+11,Benjamin,David,Young,benjamin.young@company.id,081900000011,0218801011,11,1,manager,Jl AP Pettarani No 7 Makassar,11,9,35000000.00000,Regional director
+12,Amelia,Rose,Hall,amelia.hall@company.id,081900000012,0218801012,12,11,manager,Jl Ijen Boulevard No 6 Malang,12,10,20000000.00000,Retail operations manager
+13,Lucas,,Allen,lucas.allen@company.id,081900000013,0218801013,13,11,staff,Jl Engku Putri No 2 Batam,13,11,8000000.00000,Customer service officer
+14,Harper,Jane,King,harper.king@company.id,081900000014,0218801014,14,11,staff,Jl Kartini No 14 Bandar Lampung,14,12,7900000.00000,Inventory analyst
+15,Henry,,Wright,henry.wright@company.id,081900000015,0218801015,15,11,supervisor,Jl Khatib Sulaiman No 31 Padang,15,13,17000000.00000,Distribution supervisor
+16,Evelyn,Maria,Lopez,evelyn.lopez@company.id,081900000016,0218801016,16,15,staff,Jl T Nyak Arief No 11 Banda Aceh,16,14,7400000.00000,Administrative staff
+17,Michael,,Hill,michael.hill@company.id,081900000017,0218801017,17,15,manager,Jl Sam Ratulangi No 12 Manado,17,15,23000000.00000,Factory manager
+18,Abigail,,Green,abigail.green@company.id,081900000018,0218801018,18,17,staff,Jl Moh Yamin No 9 Palu,18,16,7200000.00000,Quality assurance staff
+19,Matthew,Ryan,Baker,matthew.baker@company.id,081900000019,0218801019,19,17,staff,Jl El Tari No 3 Kupang,19,17,7100000.00000,Remote site technician
+20,Emily,,Nelson,emily.nelson@company.id,081900000020,0218801020,20,17,supervisor,Jl Abepura No 18 Jayapura,20,18,16500000.00000,Regional retail supervisor

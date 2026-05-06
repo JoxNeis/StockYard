@@ -1,0 +1,21 @@
+code,name,standard_cost,moq,description,category_id,stock_unit
+PRD001,Wireless Mouse,75000.00000,10.00000,Ergonomic wireless mouse with USB receiver,1,piece
+PRD002,Gaming Keyboard,250000.00000,5.00000,Mechanical RGB gaming keyboard,1,piece
+PRD003,Office Chair,850000.00000,2.00000,Adjustable ergonomic office chair,16,piece
+PRD004,LED Monitor 24 Inch,1750000.00000,3.00000,Full HD LED monitor for office and gaming,1,piece
+PRD005,Cotton T Shirt,55000.00000,20.00000,Comfortable cotton t shirt for casual wear,2,piece
+PRD006,Running Shoes,320000.00000,8.00000,Lightweight running shoes for sports activities,15,piece
+PRD007,Cooking Oil 1L,18000.00000,24.00000,Premium quality cooking oil,10,liter
+PRD008,Mineral Water Box,45000.00000,10.00000,Box of bottled mineral water,10,box
+PRD009,A4 Copy Paper,58000.00000,5.00000,High quality A4 office paper 80gsm,12,box
+PRD010,Whiteboard Marker,6500.00000,50.00000,Permanent whiteboard marker ink,20,piece
+PRD011,Dog Food Premium,120000.00000,4.00000,Nutritious premium dry dog food,11,kilogram
+PRD012,Protein Powder,275000.00000,6.00000,Whey protein supplement for fitness,9,box
+PRD013,Shampoo Herbal,28000.00000,12.00000,Herbal shampoo for daily hair care,4,liter
+PRD014,Basketball,95000.00000,10.00000,Official size outdoor basketball,5,piece
+PRD015,Electric Drill,670000.00000,2.00000,Portable electric drill for construction work,8,piece
+PRD016,Ceramic Floor Tile,72000.00000,30.00000,Durable ceramic floor tile for interiors,17,m2
+PRD017,Steel Pipe 2 Meter,150000.00000,10.00000,Industrial grade steel pipe,8,meter
+PRD018,Sugar 1kg,16500.00000,25.00000,Refined white crystal sugar,10,kilogram
+PRD019,Baby Diapers Pack,89000.00000,12.00000,Comfortable disposable baby diapers,13,box
+PRD020,Acoustic Guitar,1250000.00000,2.00000,Wooden acoustic guitar for beginners and professionals,18,piece

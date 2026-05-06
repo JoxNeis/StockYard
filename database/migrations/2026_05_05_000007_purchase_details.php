@@ -18,7 +18,6 @@ return new class extends Migration {
             $table->foreign('product_id')->references('id')->on('products');
             $table->decimal('unit', 18, 5);
             $table->decimal('subtotal', 19, 5);
-            $table->string('attachment_format', 5);
             $table->longText('notes');
             $table->softDeletes();
             $table->timestamps();

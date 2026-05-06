@@ -1,0 +1,21 @@
+from,to,product_id,shipper_id,unit,fee,taxes,attachment_format,notes
+1,2,1,1,50.00000,150000.00000,15000.00000,pdf,Transfer of wireless mouse stock to Bandung warehouse
+2,4,2,2,25.00000,200000.00000,20000.00000,pdf,Gaming keyboard distribution for retail fulfillment
+3,5,3,3,10.00000,350000.00000,35000.00000,docx,Office chair shipment to showroom
+4,6,4,4,15.00000,275000.00000,27500.00000,pdf,LED monitor stock movement to retail store
+5,7,5,5,100.00000,125000.00000,12500.00000,xlsx,Textile inventory transfer
+6,8,6,6,40.00000,180000.00000,18000.00000,pdf,Sports shoes sent to Medan warehouse
+7,9,7,7,200.00000,225000.00000,22500.00000,pdf,Cooking oil shipment for regional distribution
+8,10,8,8,120.00000,240000.00000,24000.00000,docx,Mineral water stock replenishment
+9,11,9,9,75.00000,160000.00000,16000.00000,pdf,Office paper transfer for regional office
+10,12,10,10,300.00000,110000.00000,11000.00000,xlsx,Whiteboard marker delivery to showroom
+11,13,11,11,60.00000,260000.00000,26000.00000,pdf,Dog food transfer to Batam warehouse
+12,14,12,12,30.00000,190000.00000,19000.00000,pdf,Protein powder shipment to Lampung retail
+13,15,13,13,90.00000,210000.00000,21000.00000,docx,Shampoo inventory movement
+14,16,14,14,45.00000,170000.00000,17000.00000,pdf,Basketball shipment to Banda Aceh office
+15,17,15,15,20.00000,450000.00000,45000.00000,pdf,Electric drill transport for factory use
+16,18,16,16,500.00000,550000.00000,55000.00000,xlsx,Ceramic tile transfer to Palu warehouse
+17,19,17,17,70.00000,400000.00000,40000.00000,pdf,Steel pipe shipment to Kupang retail
+18,20,18,18,250.00000,230000.00000,23000.00000,pdf,Sugar stock transfer for distribution
+19,1,19,19,80.00000,175000.00000,17500.00000,docx,Baby diapers returned to head office
+20,3,20,20,12.00000,320000.00000,32000.00000,pdf,Acoustic guitar shipment to factory showroom

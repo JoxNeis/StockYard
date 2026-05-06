@@ -1,0 +1,11 @@
+purchase_id,from_address,from_subdistrict_id,to,shipper_id,fee,taxes,attachment_format,notes
+1,Jl Industri Raya No 10 Jakarta,1,1,1,150000.00000,15000.00000,pdf,Electronics shipment to head office
+2,Jl Soekarno Hatta No 15 Bandung,2,2,2,175000.00000,17500.00000,pdf,Construction material delivery
+3,Jl Margomulyo No 8 Surabaya,3,3,3,120000.00000,12000.00000,docx,Grocery inventory shipment
+4,Jl Pemuda No 20 Semarang,4,4,4,95000.00000,9500.00000,pdf,IT accessories transport
+5,Jl Magelang Km 7 Yogyakarta,5,5,5,135000.00000,13500.00000,pdf,Plastic packaging delivery
+6,Jl Otista No 11 Bekasi,6,6,6,160000.00000,16000.00000,xlsx,Textile shipment for warehouse
+7,Jl Gatot Subroto Barat No 3 Denpasar,7,7,7,250000.00000,25000.00000,pdf,Furniture shipment to Bali branch
+8,Jl Asia No 18 Medan,8,8,8,110000.00000,11000.00000,pdf,Office supply shipment
+9,Jl Veteran No 14 Banjarmasin,9,9,9,275000.00000,27500.00000,docx,Agricultural goods shipment
+10,Jl Ahmad Yani No 77 Samarinda,10,10,10,220000.00000,22000.00000,pdf,Industrial spare parts delivery

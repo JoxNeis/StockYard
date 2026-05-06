@@ -5,9 +5,9 @@ enum StockUnit: string
 {
     case PIECE = 'piece';
     case BOX = 'box';
-    case KILOGRAM = 'kg';
+    case KILOGRAM = 'kilogram';
     case GRAM = 'gram';
     case LITER = 'liter';
     case METER = 'meter';
-    case METERSQUARED = 'm2';
+    case METER_SQUARED = 'm2';
 }

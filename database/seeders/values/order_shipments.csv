@@ -1,0 +1,11 @@
+order_id,to_address,to_subdistrict_id,from,shipper_id,fee,taxes,attachment_format,notes
+1,Jl Merdeka No 12 Jakarta,1,1,1,150000.00000,15000.00000,pdf,Shipment for office electronics order
+2,Jl Kenanga Raya No 5 Bandung,2,2,2,125000.00000,12500.00000,pdf,Stationery delivery to customer branch
+3,Jl Diponegoro No 88 Surabaya,3,3,3,300000.00000,30000.00000,docx,Heavy equipment shipment
+4,Jl Ahmad Yani No 17 Bekasi,4,4,4,95000.00000,9500.00000,pdf,Retail clothing package shipment
+5,Jl Gajah Mada No 25 Semarang,5,5,5,175000.00000,17500.00000,pdf,Computer equipment transport
+6,Jl Kaliurang Km 6 Yogyakarta,6,6,6,110000.00000,11000.00000,xlsx,Inventory replenishment delivery
+7,Jl Teuku Umar No 21 Denpasar,7,7,7,250000.00000,25000.00000,pdf,Furniture shipment to Bali
+8,Jl Sutomo No 44 Medan,8,8,8,90000.00000,9000.00000,pdf,Electronics shipment for retail store
+9,Jl A Yani No 77 Banjarmasin,9,9,9,275000.00000,27500.00000,docx,Industrial equipment shipping
+10,Jl Mulawarman No 8 Samarinda,10,10,10,120000.00000,12000.00000,pdf,Food and beverage shipment

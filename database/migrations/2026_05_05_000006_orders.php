@@ -20,8 +20,8 @@ return new class extends Migration {
             $table->enum('payment_type', array_map(fn($e) => $e->value, PaymentType::cases()));
             $table->date('payment_date')->nullable();
             $table->decimal('subtotal',19,5);
-            $table->decimal('discount',19,5)->nullable();
-            $table->decimal('discount_rate',3,2)->nullable();
+            $table->decimal('discount',19,5)->default(0);
+            $table->decimal('discount_rate',3,2)->default(0);
             $table->decimal('tax',19,5);
             $table->string('attachments_format',5);
             $table->longText('notes');
