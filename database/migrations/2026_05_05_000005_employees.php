@@ -3,7 +3,7 @@
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
-use App\enums\JobTitle;
+use App\Enums\JobTitle;
 
 return new class extends Migration {
     /**
